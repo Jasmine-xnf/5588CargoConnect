@@ -16,6 +16,7 @@ import edu.wpi.first.wpilibj2.command.SubsystemBase;
 * NEO motors 
 * DIO pins
 * use NO and CLOSE
+* https://docs.wpilib.org/en/stable/docs/software/hardware-apis/sensors/limit-switch.html
 */ 
 
 public class ClimberSubsystem extends SubsystemBase{
